@@ -1,0 +1,524 @@
+[
+    {
+        "id": 1,
+        "name":"Eloquent Javascript 3E: A Modern Introduction to Programming by Marijn Haverbeke  | 4 December 2018",
+        "desc": [
+            {
+                "desc1": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+            },
+            {
+                "desc1": "This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track."
+            },
+            {
+                "desc1": "As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to:"
+            },
+            {
+                "desc1": "All source code is available online in an inter¬active sandbox, where you can edit the code, run it, and see its output instantly."
+            }
+        ],
+        "category": "book",
+        "price": 10.99,
+        "imgUrl": "https://m.media-amazon.com/images/I/91asIC1fRwL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Lenovo IdeaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6-inch (39.62cm) FHD Laptop (8GB/256GB SSD/Win 11/Office 2021/3 Month Game Pass/Arctic Grey/1.65Kg), 82H803TXIN",
+        "desc": [
+            {
+                "desc1": "Processor: 11th Gen Intel Core i3-1115G4 | Speed: 3.0 GHz (Base) - 4.1 GHz (Max) | 2 Cores | 4 Threads | 6MB Cache"
+            },
+            {
+                "desc1": "OS & Software: Windows 11 Home 64 | Office Home and Student 2021 | Xbox GamePass Ultimate 3-month subscription"
+            },
+            {
+                "desc1": "Graphics: Integrated Intel UHD Graphics | Memory: 8GB RAM DDR4-2666, Upgradable Up to 16GB | Storage: 256 GB SSD"
+            },
+            {
+                "desc1": "Display: 15.6-inch FHD (1920x1080) | TN Technology Display | 250Nits Brightness | Anti Glare"
+            }
+            ,
+            {
+                "desc1": "Design: 4 side narrow bezel | 1.99 cm & 1.65 kg | Non-backlit Keyboard | Connectivity: Wi-Fi 5 (11ac | 2x2) | BT 5.0"
+            }
+            ,
+            {
+                "desc1": "Battery Life: 3-Cell 45Wh | Upto 6 Hours | Rapid Charge (Up to 80% in 1 Hour) || Audio: 2x 1.5W Stereo Speakers | HD Audio | Dolby Audio"
+            },
+            {
+                "desc1": "Camera: HD 720p with Privacy Shutter | Fixed Focus | Integrated Dual Array Microphone"
+            },
+            {
+                "desc1": "Ports: 1x USB-A 2.0 | 2x USB-A 3.2 Gen 1 | 1x Headphone/mic combo jack (3.5mm) | 1x HDMI 1.4 | 1x 4-in-1 media reader (MMC, SD, SDHC, SDXC)"
+            },
+            {
+                "desc1": "Warranty: This genuine Lenovo laptop comes with 1 Years onsite manufacturer warranty & 1 Year ADP"
+            },
+            {
+                "desc1": "Active subscription needed;continues until cancelled-game catalog varies. Needs Windows11 & app to play PC games; Discounts exclude titles within 30 days of launch; based on Microsoft Store price."
+            }
+        ],
+        "category": "computer",
+        "price": 1199,
+        "imgUrl": "https://m.media-amazon.com/images/I/41o-KkXEkSL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74L (Black)",
+        "desc": [
+            {
+                "desc1": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 Hertz | 178 Degree wide viewing angle"
+            },
+            {
+                "desc1": "Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices"
+            },
+            {
+                "desc1": "Sound : 20 Watts Output | Open Baffle Speaker| Dolby Audio | Clear Phase | eARC Input"
+            },
+            {
+                "desc1": "Smart TV Features: Google TV, Watchlist, Voice Search, Google Play, Chromecast, Netflix, Amazon Prime Video, Additional Features: Apple Airplay, Apple Homekit, Alexa | Supported Apps: Netflix, Amazon Prime Video, Disney+ Hotstar, Sony Liv, Zee5, Voot, Jio Cinema & many More"
+            }
+            ,
+            {
+                "desc1": "Display: X1 4K Processor | 4K HDR | Live Colour| 4K X Reality Pro | Motion Flow XR100"
+            }
+            ,
+            {
+                "desc1": "Warranty Information: 1 year comprehensive warranty on product provided by the brand from the date of purchase"
+            }
+        ],
+        "category": "tv",
+        "price": 1.05,
+        "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/51eiFYQhwBL._AC_SX368_.jpg"
+    },
+    {
+        "id": 4,
+        "name":"BATA Unisex-Child Legion Crib Shoe",
+        "desc": [
+            {
+                "desc1": "Sole: Rubber"
+            },
+            {
+                "desc1": "Closure: Lace-Up"
+            },
+            {
+                "desc1": "Fit Type: Regular"
+            },
+            {
+                "desc1": "Shoe Width: Medium"
+            }
+            ,
+            {
+                "desc1": "Easy to wear and comfortable to use"
+            }
+        ],
+        "category": "shoes",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/61FqYmcGURL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 5,
+        "name":"HP Laptop 15s, AMD Ryzen 5 5500U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, AMD Radeon Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), eq2223AU",
+        "desc": [
+            {
+                "desc1": "[6-core AMD Ryzen 5 5500U] 12 threads and 8MB L3 cache deliver powerful performance and swift responsiveness. The AMD Radeon graphics help you experience crisp visuals with vivid clarity."
+            },
+            {
+                "desc1": "[Upgraded memory and storage] 8GB DDR4 RAM integrates a higher-bandwidth memory for smooth functioning. The high-speed 512GB PCIe NVMe M.2 SSD creates more room to work with ample storage."
+            },
+            {
+                "desc1": "【Micro-edge display】The 15.6-inch, FHD, 250-nit, anti-glare, and micro-edge display is engineered for high-quality viewing with stunning clarity."
+            },
+            {
+                "desc1": "【Effortless connectivity】Wi-Fi 5 (2x2) and Bluetooth 5.0 ensure an uninterrupted and seamless experience. Enjoy effortless connectivity with 1 x USB Type-C, 2 x USB Type-A, and 1 x HDMI 1.4b ports."
+            }
+            ,
+            {
+                "desc1": "【Long battery life】Fast charge your battery from 0% to 50% in 45 mins. The durable 41Wh battery enables you to maximize productivity and work through tasks without interruption."
+            }
+            ,
+            {
+                "desc1": "【Business conferencing】HP True Vision 720p HD camera with integrated dual array mics, and dual speakers deliver a high-resolution, crystal-clear collaboration experience."
+            },
+            {
+                "desc1": "【Why HP】Experience the unparalleled advantages of choosing HP, the most preferred and trusted PC brand by Indians, which empowers you with cutting-edge technology and steadfast dependability."
+            },
+            {
+                "desc1": "【Pre-loaded Win 11 and MS Office】Comes with Win 11 and MS Office 2021. To activate your MS Office, sign in or sign up, and follow the Office Activation Wizard."
+            },
+            {
+                "desc1": "【Sustainably made】Make an environmentally conscious choice with a thoughtfully designed laptop that contains recycled plastics and is EPEAT Silver registered and ENERGY STAR certified."
+            },
+            {
+                "desc1": "【Reliable design】A sleek yet sturdy laptop that delivers rock-solid performance all day long with power-packed features, optimized heat management, and 1-year on-site standard warranty."
+            }
+        ],
+        "category": "computer",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/81+XxMhWTOL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 6,
+        "name":"CSS: The Definitive Guide - Web Layout and Presentation, Fifth Edition (Grayscale Indian Edition) Paperback – 14 June 2023",
+        "desc": [
+            {
+                "desc1": "Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs. All Indian Reprints of O'Reilly are Printed in Grayscale."
+            },
+            {
+                "desc1": "If you're a web designer or app developer interested in sophisticated page styling, improved accessibility, and less time and effort expended, this book is for you. This revised fifth edition provides a comprehensive guide to CSS implementation along with a thorough review of the latest CSS specifications."
+            },
+            {
+                "desc1": "Authors Eric Meyer and Estelle Weyl show you how to improve user experience, speed development, avoid potential bugs, and add life and depth to your applications through layout, transitions and animations, borders, backgrounds, text properties, and many other tools and techniques. We read the specs so you don't have to!"
+            }
+        ],
+        "category": "book",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71tZI6hwl4L._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 33.74 cm (16.2-inch), 16GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Grey",
+        "desc": [
+            {
+                "desc1": "SUPERCHARGED BY M2 PRO OR M2 MAX — Take on demanding projects with the M2 Pro or M2 Max chip. M2 Pro has 12 CPU cores, 19 GPU cores and up to 32GB unified memory. M2 Max has 12 CPU cores, up to 38 GPU cores and up to 96GB unified memory."
+            },
+            {
+                "desc1": "UP TO 22 HOURS OF BATTERY LIFE — Go all day thanks to the power-efficient design of the M2 Pro or M2 Max chip. And MacBook Pro delivers exceptional performance whether it’s running on battery or plugged in."
+            },
+            {
+                "desc1": "FULLY COMPATIBLE — All your pro apps run lightning-fast — including Adobe Creative Cloud, Xcode, Affinity Designer, Microsoft 365, and many of your favourite iPhone and iPad apps."
+            },
+            {
+                "desc1": "BEAUTIFUL PRO DISPLAY — The 16.2-inch Liquid Retina XDR display features Extreme Dynamic Range, over 1,000 nits of brightness for stunning HDR content and pro reference modes for doing your best work on the go."
+            }
+            ,
+            {
+                "desc1": "ADVANCED CAMERA AND AUDIO — Look sharp and sound great with a 1080p FaceTime HD camera, a studio-quality three-mic array, and a six-speaker sound system with Spatial Audio."
+            }
+            ,
+            {
+                "desc1": "【Business conferencing】HP True Vision 720p HD camera with integrated dual array mics, and dual speakers deliver a high-resolution, crystal-clear collaboration experience."
+            },
+            {
+                "desc1": "【Why HP】Experience the unparalleled advantages of choosing HP, the most preferred and trusted PC brand by Indians, which empowers you with cutting-edge technology and steadfast dependability."
+            },
+            {
+                "desc1": "【Pre-loaded Win 11 and MS Office】Comes with Win 11 and MS Office 2021. To activate your MS Office, sign in or sign up, and follow the Office Activation Wizard."
+            },
+            {
+                "desc1": "【Sustainably made】Make an environmentally conscious choice with a thoughtfully designed laptop that contains recycled plastics and is EPEAT Silver registered and ENERGY STAR certified."
+            },
+            {
+                "desc1": "【Reliable design】A sleek yet sturdy laptop that delivers rock-solid performance all day long with power-packed features, optimized heat management, and 1-year on-site standard warranty."
+            }
+        ],
+        "category": "computer",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/61Ph34V0YAL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 8,
+        "name":"BMW",
+        "category": "vehical",
+        "price": 14000,
+        "imgUrl": "/imgs/bmwcar.webp"
+    },
+    {
+        "id": 9,
+        "name":"HTML",
+        "desc": "HTML 5 Black Book, Covers CSS 3, JavaScript, XML, XHTML, AJAX, PHP and jQuery, 2ed | BS | e DT Editorial Services  | 1 January 2016",
+        "category": "book",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/514faGhNXxL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Redmi 139 cm (55 inches) 4K Ultra HD Android Smart LED TV X55 | L55M6-RA (Black)",
+        "desc": [
+            {
+                "desc1": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60Hz | 178 Degree Viewing angle"
+            },
+            {
+                "desc1": "Connectivity: Dual-band Wi-Fi | Bluetooth 5.0 | 3 HDMI ports to connect latest gaming consoles, set top box, Blu-ray Players | 2 USB ports to connect hard drives and other USB devices | eARC - Dolby Atmos Passthrough eARC HDMI port | Optical Port"
+            },
+            {
+                "desc1": "Sound: 30 Watts Output | Dolby Audio | DTS Virtual: X | Dolby Atmos pass through eARC | DTS-HD"
+            },
+            {
+                "desc1": "Smart TV Features : Android TV 10 | PatchWall - Kids Mode with Parental Lock | Smart Curation | Universal search | Language Universe | India's Top 10 | Okay Google | Chromecast| Suporting Apps : Netflix, Prime Video, Disney+ Hotstar"
+            }
+            ,
+            {
+                "desc1": "Display: 4K LED Panel | Dolby Vision | HDR10+ | HLG | Reality Flow | Vivid Picture Engine"
+            }
+            ,
+            {
+                "desc1": "Warranty Information: 1 year comprehensive warranty on product and 1 year additional on Panel provided by the brand from the date of purchase"
+            },
+            {
+                "desc1": "Easy Returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+            },
+            {
+                "desc1": "OEM warranty activation starts from the date of delivery"
+            }
+        ],
+        "category": "tv",
+        "price": 14000,
+        "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/41OOF62fdzL._AC_SX368_.jpg"
+    },
+    {
+        "id": 11,
+        "name":"Honda",
+        "category": "vehical",
+        "price": 14000,
+        "imgUrl": "/imgs/hectorcar.webp"
+    },
+    {
+        "id": 12,
+        "name":"LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UQ7500PSF (Ceramic Black)",
+        "desc": [
+            {
+                "desc1": "Resolution: 4K Ultra HD (3840x2160) | Refresh Rate: 60 hertz"
+            },
+            {
+                "desc1": "Connectivity: Wi-Fi (Built-in) | 3 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices | eARC | Bluetooth 5.0 | Optical | Ethernet"
+            },
+            {
+                "desc1": "Sound: 20 Watts Output | 2.0 Ch Speaker | AI Sound (Virtual Surround 5.1 up-mix) | Auto Volume Levelling | Bluetooth Surround Ready"
+            },
+            {
+                "desc1": "Smart TV Features: AI ThinQ & WebOS 22 with User Profiles | Game Optimizer & Dashboard | α5 Gen5 AI Processor 4K | Unlimited OTT App Support: Netflix, Prime Video, Disney+ Hotstar, Apple TV, SonyLIV, Discovery+, Zee5 | ALLM & HGiG Mode | HDR 10 Pro & Active HDR"
+            }
+            ,
+            {
+                "desc1": "Display: 4K Ultra HD LED Display | 4K Upscaler | AI Brightness Control"
+            }
+            ,
+            {
+                "desc1": "Warranty Information: 1 Year LG India Comprehensive Warranty and additional 1 year Warranty is applicable on panel/module from the date of purchase"
+            },
+            {
+                "desc1": "Installation : For requesting installation/wall mounting/demo of this product once delivered, please directly call LG support (Please visit LG Website for Toll Free Numebrs) and provide product's model name as well as seller's details mentioned on the invoice"
+            }
+        ],
+        "category": "tv",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71D6DfO-0nL._SX679_.jpg"
+    },
+    {
+        "id": 13,
+        "name":"MongoDB: The Definitive Guide - Powerful and Scalable Data Storage, Third Edition (Greyscale Indian Edition)",
+        "desc": [
+            {
+                "desc1": "Manage your data with a system designed to support modern application development. Updated for MongoDB 4.2, the third edition of this authoritative and accessible guide shows you the advantages of using document-oriented databases. You’ll learn how this secure, high-performance system enables flexible data models, high availability, and horizontal scalability."
+            },
+            {
+                "desc1": "Authors Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow provide guidance for database developers, advanced configuration for system administrators, and use cases for a variety of projects. NoSQL newcomers and experienced MongoDB users will find updates on querying, indexing, aggregation, transactions, replica sets, ops management, sharding and data administration, durability, monitoring, and security. In six parts, this book shows you how to:"
+            }
+        ],
+        "category": "book",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/712zsPFM1kL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 14,
+        "name":"OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)",
+        "desc": [
+            {
+                "desc1": "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz"
+            },
+            {
+                "desc1": "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices, Dimensions(TV With Stand) - 71.3cm x 20cm x 46.9cm | VESA Hole Pitch - 20cm x 20cm"
+            },
+            {
+                "desc1": "Sound : 20 Watts Output | Dolby Audio"
+            },
+            {
+                "desc1": "Smart TV Features: Android TV 9.0 | OnePlus Connect | Google Assistant | Play Store | Chromecast | Shared Album | Supported Apps : Netflix, YouTube, Prime video | Content Calendar | OxygenPlay"
+            },
+            {
+                "desc1": "Display : LED Panel | Noise Reduction | Colour Space Mapping |Dynamic Contrast | Anti-Aliasing | DCI-P3 93% colour gamut | Gamma Engine | Design: Bezel-less | Screen/Body Ratio = 91.4%"
+            },
+            {
+                "desc1": "Warranty Information: 1 year comprehensive warranty and additional 1 year on panel provided by the manufacturer from date of purchase"
+            },
+            {
+                "desc1": "Installation/Wall mounting/demo will be arranged by Amazon Home Services. For any other information, please contact Amazon customer support | Wall Mount is not included in the box and will be charged extra at the time of installation"
+            },
+            {
+                "desc1": "Easy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+            }
+        ],
+        "category": "tv",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71d5fMDvq9L._SX679_.jpg"
+    },
+    {
+        "id": 15,
+        "name":"MG",
+        "category": "vehical",
+        "price": 14000,
+        "imgUrl": "/imgs/hectorcar.webp"
+    }
+    ,
+    {
+        "id": 16,
+        "name":"Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques",
+        "desc": [
+            {
+                "desc1": "In this book, we will show you how to implement a series of best practices and design patterns to help you create efficient and robust Node.js applications with ease."
+            },
+            {
+                "desc1": "We kick off by exploring the basics of Node.js, analyzing its asynchronous event driven architecture and its fundamental design patterns. We then show you how to build asynchronous control flow patterns with callbacks, promises and async/await. Next, we dive into Node.js streams, unveiling their power and showing you how to use them at their full capacity. Following streams is an analysis of different creational, structural, and behavioral design patterns that take full advantage of JavaScript and Node.js. Lastly, the book dives into more advanced concepts such as Universal JavaScript, scalability and messaging patterns to help you build enterprise-grade distributed applications."
+            },
+            {
+                "desc1": "Throughout the book, you'll see Node.js in action with the help of several real-life examples leveraging technologies such as LevelDB, Redis, RabbitMQ, ZeroMQ, and many others. They will be used to demonstrate a pattern or technique, but they will also give you a great introduction to the Node.js ecosystem and its set of solutions.s"
+            }
+        ],
+        "category": "book",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71OMPF7vzmL._AC_UY436_FMwebp_QL65_.jpg"
+    }
+    ,
+    {
+        "id": 17,
+        "name":"Puma Unisex-Adult Flyer Runner Running Shoes",
+        "desc": [
+            {
+                "desc1": "Sole: Rubber"
+            },
+            {
+                "desc1": "Closure: Lace-Up"
+            },
+            {
+                "desc1": "Fit Type: Regular"
+            },
+            {
+                "desc1": "Shoe Width: Medium"
+            },
+            {
+                "desc1": "Style Name:-Walking Shoe"
+            },
+            {
+                "desc1": "Model Name:-FLYER Runner Mesh"
+            },
+            {
+                "desc1": "Brand Color:-Asphalt-Lake Blue"
+            },
+            {
+                "desc1": "Activity Group:-Running"
+            },
+            {
+                "desc1": "Wipe with a clean dry cloth"
+            }
+        ],
+        "category": "Shoes",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/51EMiucNgZL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 18,
+        "name":"Audi",
+        "category": "vehical",
+        "price": 14000,
+        "imgUrl": "/imgs/audicar.jpeg"
+    },
+    {
+        "id": 19,
+        "name":"The Road To Learn React: Your Journey To Master Plain Yet Pragmatic React.Js by Robin Wieruch  | 1 January 2018",
+        "desc": [
+            {
+                "desc1": "The road to learn react teaches you the fundamentals of react. You will build a real world application along the way in plain react without complicated tooling. Everything from project setup to deployment on a server will be explained. The book comes with additional referenced reading material and exercises with each Chapter after reading the book, you will be able to build your own applications in react. The material is kept up to date by me and the community. In the road to learn react, I want to offer a foundation before you start to dive into the broader react ecosystem. It has less tooling and less external state management, but a lot of information around react. It explains General concepts, patterns and best practices in a real world react application. You will learn to build your own react application. It covers real world features like pagination, client-side caching and interactions like searching and sorting. Additionally you will transition from JavaScript ES5 to JavaScript ES6 along the way. I hope this book captures My enthusiasm for react and JavaScript and helps you to get started."
+            }
+        ],
+        "category": "book",
+        "price": 14000,
+        "imgUrl": "/imgs/reactbook.jpeg"
+    },
+    {
+        "id": 20,
+        "name":"Volkswagen",
+        "category": "vehical",
+        "price": 14000,
+        "imgUrl": "/imgs/volkswagencar.webp"
+    },
+    {
+        "id": 21,
+        "name":"ASUS Vivobook 15, Intel Core i5-1235U 12th Gen, 15.6-inch (39.62 cm) FHD, Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Office 2021/Backlit Keyboard/Quiet Blue/1.7 kg), X1504ZA-NJ521WS",
+        "desc": [
+            {
+                "desc1": "ASUS, DIGITEK (CHONGQING) Limited, B01 SEC C Airport Function Zone Lianglu Cuntan Free Trade Port Area, Yubei District, China"
+            },
+            {
+                "desc1": "ASUS Vivobook 15"
+            },
+            {
+                "desc1": "1 Lithium Ion batteries required. (included)"
+            },
+            {
+                "desc1": "Processor Speed 4.4 GHz"
+            }
+            ,
+            {
+                "desc1": "Processor Count 10"
+            }
+            ,
+            {
+                "desc1": "RAM Size 8 GB"
+            }
+        ],
+        "category": "computer",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71qTbS09tjL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 22,
+        "name":"Mercedes",
+        "category": "vehical",
+        "price": 14000,
+        "imgUrl": "/imgs/mercedescar.avif"
+    },
+    {
+        "id": 23,
+        "name":"Campus Ladies Camp BENCY Running Shoes",
+        "desc": [
+            {
+                "desc1": "Sole: Ethylene Vinyl Acetate"
+            },
+            {
+                "desc1": "Closure: Lace-Up"
+            },
+            {
+                "desc1": "Fit Type: Regular"
+            },
+            {
+                "desc1": "Shoe Width: Medium"
+            }
+            ,
+            {
+                "desc1": "Lifestyle : Slider"
+            }
+            ,
+            {
+                "desc1": "Warranty Type: Manufacturer"
+            },
+            {
+                "desc1": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoes bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+            }
+        ],
+        "category": "shoes",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71a38qfVAPL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 24,
+        "name":"Journey to Angular Development Paperback – Illustrated, 13 July 2021",
+        "desc": [
+            {
+                "desc1": "KEY FEATURES ● Includes real examples and numerous illustrated use-cases on how to build dynamic and interactive web applications. ● Covers true challenges faced by Angular professionals along with proven solutions and best practices. ● Discusses various kinds of best practices followed in Angular applications. ● Makes you travel through a journey of 20 stations. Each station comes with new excitement and new challenges. ● Covers practical examples with real-time discussions. DESCRIPTION This book is an exciting journey where novice developers learn everything they need to do before they start working on the Angular framework and develop dynamic web applications. The book begins with building a strong foundation on the concepts of web application development and numerous developer-friendly terminologies that you would often come across while learning Angular. It covers the essentials of ES6, Webpack, and TypeScript to write Angular applications and make the development of Angular apps more enticing, innovative, and scalable. The book talks about modules, directives, components, data binding, routing, and many more components and functions. Each of these topics is backed with real examples and illustrations. By the end of this book, you will learn about Angular’s powerful features and capabilities. You will become a confident developer to design your own modern, responsive, and user-friendly web applications all by yourself using this single source of knowledge."
+            }
+        ],
+        "category": "book",
+        "price": 14000,
+        "imgUrl": "https://m.media-amazon.com/images/I/41Jis0VFpSL._SX404_BO1,204,203,200_.jpg"
+    }
+]
