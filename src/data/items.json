@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "title": "JavaScript",
         "name":"Eloquent Javascript 3E: A Modern Introduction to Programming by Marijn Haverbeke  | 4 December 2018",
         "desc": [
             {
@@ -17,11 +18,13 @@
             }
         ],
         "category": "book",
-        "price": 10.99,
+        "dicount": 43,
+        "price": 3999,
         "imgUrl": "https://m.media-amazon.com/images/I/91asIC1fRwL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 2,
+        "title": "Lenovo",
         "name":"Lenovo IdeaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6-inch (39.62cm) FHD Laptop (8GB/256GB SSD/Win 11/Office 2021/3 Month Game Pass/Arctic Grey/1.65Kg), 82H803TXIN",
         "desc": [
             {
@@ -58,11 +61,13 @@
             }
         ],
         "category": "computer",
-        "price": 1199,
+        "dicount": 31,
+        "price": 49190,
         "imgUrl": "https://m.media-amazon.com/images/I/41o-KkXEkSL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 3,
+        "title": "Sony",
         "name":"Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74L (Black)",
         "desc": [
             {
@@ -87,11 +92,13 @@
             }
         ],
         "category": "tv",
-        "price": 1.05,
+        "dicount": 44,
+        "price": 99990,
         "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/51eiFYQhwBL._AC_SX368_.jpg"
     },
     {
         "id": 4,
+        "title": "Bata",
         "name":"BATA Unisex-Child Legion Crib Shoe",
         "desc": [
             {
@@ -112,11 +119,13 @@
             }
         ],
         "category": "shoes",
-        "price": 14000,
+        "dicount": 16,
+        "price": 1999,
         "imgUrl": "https://m.media-amazon.com/images/I/61FqYmcGURL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
         "id": 5,
+        "title": "HP",
         "name":"HP Laptop 15s, AMD Ryzen 5 5500U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, AMD Radeon Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), eq2223AU",
         "desc": [
             {
@@ -153,11 +162,13 @@
             }
         ],
         "category": "computer",
-        "price": 14000,
+        "dicount": 17,
+        "price": 49631,
         "imgUrl": "https://m.media-amazon.com/images/I/81+XxMhWTOL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 6,
+        "title": "CSS",
         "name":"CSS: The Definitive Guide - Web Layout and Presentation, Fifth Edition (Grayscale Indian Edition) Paperback – 14 June 2023",
         "desc": [
             {
@@ -171,11 +182,13 @@
             }
         ],
         "category": "book",
-        "price": 14000,
+        "dicount": 0,
+        "price": 3725,
         "imgUrl": "https://m.media-amazon.com/images/I/71tZI6hwl4L._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 7,
+        "title": "Apple",
         "name":"Apple 2023 MacBook Pro Laptop M2 Pro chip with 12‑core CPU and 19‑core GPU: 33.74 cm (16.2-inch), 16GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Grey",
         "desc": [
             {
@@ -212,26 +225,50 @@
             }
         ],
         "category": "computer",
-        "price": 14000,
+        "dicount": 8,
+        "price": 249900,
         "imgUrl": "https://m.media-amazon.com/images/I/61Ph34V0YAL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 8,
-        "name":"BMW",
-        "category": "vehical",
-        "price": 14000,
-        "imgUrl": "/imgs/bmwcar.webp"
+        "title": "Canon",
+        "name":"Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens",
+        "desc": [
+            {
+                "desc1": "Sensor: APS-C CMOS Sensor with 24.1 MP (high resolution for large prints and image cropping). Transmission frequency (central frequency):Frequency: 2 412 to 2 462MHz. Standard diopter :-2.5 - +0.5m-1 (dpt);ISO: 100-12800 sensitivity range (critical for obtaining grain-free pictures, especially in low light)"
+            },
+            {
+                "desc1": "Image Processor: DIGIC 4+ with 9 autofocus points (important for speed and accuracy of autofocus and burst photography);Video Resolution: Full HD video with fully manual control and selectable frame rates (great for precision and high-quality video work)"
+            },
+            {
+                "desc1": "Connectivity: WiFi, NFC and Bluetooth built-in (useful for remotely controlling your camera and transferring pictures wirelessly as you shoot)"
+            },
+            {
+                "desc1": "Lens Mount: EF-S mount compatible with all EF and EF-S lenses (crop-sensor mount versatile and compact, especially when used with EF-S lenses); Country of Origin: Taiwan"
+            }
+            ,
+            {
+                "desc1": "Compatible Mountings: Universal Tripod Mount; Photo Sensor Technology: CMOS"
+            }
+        ],
+        "category": "camera",
+        "dicount": 13,
+        "price": 47995,
+        "imgUrl": "https://m.media-amazon.com/images/I/51UHoxzInpL._SY300_SX300_QL70_FMwebp_.jpg"
     },
     {
         "id": 9,
+        "title": "HTML",
         "name":"HTML",
         "desc": "HTML 5 Black Book, Covers CSS 3, JavaScript, XML, XHTML, AJAX, PHP and jQuery, 2ed | BS | e DT Editorial Services  | 1 January 2016",
         "category": "book",
-        "price": 14000,
+        "dicount": 21,
+        "price": 899,
         "imgUrl": "https://m.media-amazon.com/images/I/514faGhNXxL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 10,
+        "title": "Redmi",
         "name":"Redmi 139 cm (55 inches) 4K Ultra HD Android Smart LED TV X55 | L55M6-RA (Black)",
         "desc": [
             {
@@ -262,18 +299,40 @@
             }
         ],
         "category": "tv",
-        "price": 14000,
+        "dicount": 40,
+        "price": 54999,
         "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/41OOF62fdzL._AC_SX368_.jpg"
     },
     {
         "id": 11,
-        "name":"Honda",
-        "category": "vehical",
-        "price": 14000,
-        "imgUrl": "/imgs/hectorcar.webp"
+        "title": "Adidas",
+        "name":"Adidas Mens Restound M Running Shoe",
+        "desc": [
+            {
+                "desc1": "Sole: Rubber"
+            },
+            {
+                "desc1": "Closure: Lace-Up"
+            },
+            {
+                "desc1": "Fit Type: Regular"
+            },
+            {
+                "desc1": "Shoe Width: Medium"
+            }
+            ,
+            {
+                "desc1": "Synthetic & Textile"
+            }
+        ],
+        "category": "shoes",
+        "dicount": 40,
+        "price": 3299,
+        "imgUrl": "https://m.media-amazon.com/images/I/81gDHBHmjSL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
         "id": 12,
+        "title": "LG",
         "name":"LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UQ7500PSF (Ceramic Black)",
         "desc": [
             {
@@ -301,11 +360,13 @@
             }
         ],
         "category": "tv",
-        "price": 14000,
+        "dicount": 42,
+        "price": 49990,
         "imgUrl": "https://m.media-amazon.com/images/I/71D6DfO-0nL._SX679_.jpg"
     },
     {
         "id": 13,
+        "title": "MongoDB",
         "name":"MongoDB: The Definitive Guide - Powerful and Scalable Data Storage, Third Edition (Greyscale Indian Edition)",
         "desc": [
             {
@@ -316,11 +377,13 @@
             }
         ],
         "category": "book",
-        "price": 14000,
+        "dicount": 0,
+        "price": 1759,
         "imgUrl": "https://m.media-amazon.com/images/I/712zsPFM1kL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 14,
+        "title": "OnePlus",
         "name":"OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)",
         "desc": [
             {
@@ -349,19 +412,40 @@
             }
         ],
         "category": "tv",
-        "price": 14000,
+        "dicount": 40,
+        "price": 19999,
         "imgUrl": "https://m.media-amazon.com/images/I/71d5fMDvq9L._SX679_.jpg"
     },
     {
         "id": 15,
-        "name":"MG",
-        "category": "vehical",
-        "price": 14000,
-        "imgUrl": "/imgs/hectorcar.webp"
+        "title": "GoPro",
+        "name":"GoPro HERO11 Waterproof Action Camera with Front + Rear LCD Screens, 5.3K60 Ultra HD Video, HyperSmooth Resolution,1080p Live Streaming with Enduro Battery (1 Year INTL Warranty + 1 Year in Warranty)",
+        "desc": [
+            {
+                "desc1": "1 year International + Free 1* year extended India warranty. *To avail free 1 year local India warranty please register on website (gopro luxurypersonified)."
+            },
+            {
+                "desc1": "Includes HERO11 Black camera, carrying case, Enduro Rechargeable Battery, curved adhesive mounts, mounting buckle + thumb screw and USB-C cable"
+            },
+            {
+                "desc1": "Automatically upload footage to the cloud + get a highlight video when charging"
+            },
+            {
+                "desc1": "Larger new image sensor delivers an immersive, extra-large field of view."
+            },
+            {
+                "desc1": "Cinematic 5.3K60 + 2.7K240 video with 24.7 megapixel stills from video."
+            }
+        ],
+        "category": "camera",
+        "dicount": 21,
+        "price": 51500,
+        "imgUrl": "https://m.media-amazon.com/images/I/51t6c5t0nDL._SX679_.jpg"
     }
     ,
     {
         "id": 16,
+        "title": "Node js",
         "name":"Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques",
         "desc": [
             {
@@ -375,12 +459,14 @@
             }
         ],
         "category": "book",
-        "price": 14000,
+        "dicount": 70,
+        "price": 5000,
         "imgUrl": "https://m.media-amazon.com/images/I/71OMPF7vzmL._AC_UY436_FMwebp_QL65_.jpg"
     }
     ,
     {
         "id": 17,
+        "title": "Puma",
         "name":"Puma Unisex-Adult Flyer Runner Running Shoes",
         "desc": [
             {
@@ -411,19 +497,40 @@
                 "desc1": "Wipe with a clean dry cloth"
             }
         ],
-        "category": "Shoes",
-        "price": 14000,
+        "category": "shoes",
+        "dicount": 70,
+        "price": 1697,
         "imgUrl": "https://m.media-amazon.com/images/I/51EMiucNgZL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
         "id": 18,
-        "name":"Audi",
-        "category": "vehical",
-        "price": 14000,
-        "imgUrl": "/imgs/audicar.jpeg"
+        "title": "Insta360",
+        "name":"insta360 X3 Action Camera, 1/2-inch Sensor, 5.7K 360 Capture, Optical Zoom 3X, 72 MP 360 Photo, 4K Single Lens Mode, Black",
+        "desc": [
+            {
+                "desc1": "1/2” Sensor Capture photos and videos with more detail thanks to a brand-new 1/2” sensor."
+            },
+            {
+                "desc1": "5.7K 360° Capture, Capture everything around you with 5.7K 360-degree capture."
+            },
+            {
+                "desc1": "The magic of 360 capture is the ability to choose the best angle after the fact. Easy AI-powered reframing tools in the Insta360 app make it easy to find the perfect, so you’ll never miss a shot again."
+            },
+            {
+                "desc1": "72 MP 360 Photo, 360 photos just got a huge upgrade. Now capture 72 megapixel stills with more detail than ever before."
+            },
+            {
+                "desc1": "Single Lens Mode in Stunning 4K, Just want to shoot first-person videos without reframing? Shoot wide-angle videos in Single Lens Mode and share instantly to social media. Now upgraded to 4K30fps. At 2.7K resolution, you can also shoot an extremely wide 170° video with MaxView."
+            }
+        ],
+        "category": "camera",
+        "dicount": 15,
+        "price": 51999,
+        "imgUrl": "https://m.media-amazon.com/images/I/61opk48tiOL._SX679_.jpg"
     },
     {
         "id": 19,
+        "title": "React js",
         "name":"The Road To Learn React: Your Journey To Master Plain Yet Pragmatic React.Js by Robin Wieruch  | 1 January 2018",
         "desc": [
             {
@@ -431,18 +538,40 @@
             }
         ],
         "category": "book",
-        "price": 14000,
+        "dicount": 0,
+        "price": 2490,
         "imgUrl": "/imgs/reactbook.jpeg"
     },
     {
         "id": 20,
-        "name":"Volkswagen",
-        "category": "vehical",
-        "price": 14000,
-        "imgUrl": "/imgs/volkswagencar.webp"
+        "title": "V88R",
+        "name":"V88R® 4K Sports Camera 16MP 40M 170°Wide-Angle WiFi Waterproof Underwater Camera with 2.0'' LCD Ultra HD Camera & Mounting Accessories Kit",
+        "desc": [
+            {
+                "desc1": "4K ACTION CAMERA- Professional 4K/60FPS, 2.7K/30fps, 1080P/120FPS video, and 16MP photo resolution enables you to capture all your adventures in high resolution. This action camera also comes with a built-in microphone to record audio (Audio may be less audible when using the waterproof case)."
+            },
+            {
+                "desc1": "WIFI ACTION CAMERA- Connect to a WiFi network to access your camera via the App. UltraHD 2.0-inch display screen allows you to preview the video in the action camera.WIFI ACTION CAMERA- Connect to a WiFi network to access your camera via the Amcrest GO App. UltraHD 2.0-inch display screen allows you to preview the video in the action camera."
+            },
+            {
+                "desc1": "16MP WIDE ANGLE LENS - 16-Megapixel UltraHD Lens provides a super-wide 170° field of view. H.264 compression for more efficient performance. Store up to 128GB of video with a MicroSD Card (Class 10 or higher, MicroSD Card Not Included and Sold Separately)."
+            },
+            {
+                "desc1": "98FT WATERPROOF CAMERA - Place your camera into the waterproof case and securely fasten it, you can dive up to 30 meters. This underwater camera is ideal for water sports such as swimming, surfing, diving, etc. This underwater camera also comes with a rechargeable 1050mAh battery(, charger. The waterproof case allows the camera to take photos/videos up to 98 feet (30 meters)."
+            }
+            ,
+            {
+                "desc1": "98FT WATERPROOF CAMERA - Place your camera into the waterproof case and securely fasten it, you can dive up to 30 meters. This underwater camera is ideal for water sports such as swimming, surfing, diving, etc. This underwater camera also comes with a rechargeable 1050mAh battery(, charger. The waterproof case allows the camera to take photos/videos up to 98 feet (30 meters)."
+            }
+        ],
+        "category": "camera",
+        "dicount": 50,
+        "price": 4999,
+        "imgUrl": "https://m.media-amazon.com/images/I/61VwXeITFjL._SX679_.jpg"
     },
     {
         "id": 21,
+        "title": "Asus",
         "name":"ASUS Vivobook 15, Intel Core i5-1235U 12th Gen, 15.6-inch (39.62 cm) FHD, Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Office 2021/Backlit Keyboard/Quiet Blue/1.7 kg), X1504ZA-NJ521WS",
         "desc": [
             {
@@ -467,18 +596,40 @@
             }
         ],
         "category": "computer",
-        "price": 14000,
+        "dicount": 30,
+        "price": 69990,
         "imgUrl": "https://m.media-amazon.com/images/I/71qTbS09tjL._AC_UY436_FMwebp_QL65_.jpg"
     },
     {
         "id": 22,
-        "name":"Mercedes",
-        "category": "vehical",
-        "price": 14000,
-        "imgUrl": "/imgs/mercedescar.avif"
+        "title": "Cason",
+        "name":"CASON CN10 4K 60fps HD 24MP Action Camera for Vlogging with EIS Anti Shake Touch Screen Action Camera with External Mic, 2 x 1350 mAh Battery,Remote and Accessories Kit (Black)",
+        "desc": [
+            {
+                "desc1": "4K 24 MP Action Camera: CASON Sports Camera, with 4k/ 60 fps smooth video resolution and photographs at 24 MP, can better help you capture every excellent moment while vlog recording,skiing, skating,swimming,snorkeling,diving,and more."
+            },
+            {
+                "desc1": "External Microphone: Action cameras with microphone will significantly improve the sound quality of your footage and record a wider range of frequencies for Vlogging,which can capture sound from all directions.(The external mic and waterproof case can't be used together, because the case is totally sealed.)"
+            },
+            {
+                "desc1": "Electronic Image Stabilization: 4K Camera With EIS tech can counteract any bump, shake, or camera tilt during use, promising your images and videos clear and stable . Just turn on the EIS, and you will never sigh for the blurry shot or video during the bumps and knocks even under the roughest conditions."
+            },
+            {
+                "desc1": "High Quality Waterproof Case and Muti-accessories:Sports Action Camera with High-quality waterproof case can make this camera work normally for even underwater 30 meters. Dual 1350 mAh batteries and multi accessories can meet your needs for any outdoor activities"
+            }
+            ,
+            {
+                "desc1": "Multi-functions & Modes -Awesome functions like 170° wide angle, loop recording, time lapse, burst photo, slow motion, screen saver will satisfy you in all aspects. Recording your wonderful life with CASON CN10 action camera."
+            }
+        ],
+        "category": "camera",
+        "dicount": 48,
+        "price": 12995,
+        "imgUrl": "https://m.media-amazon.com/images/I/71e+tm0YMTL._SX679_.jpg"
     },
     {
         "id": 23,
+        "title": "Campus",
         "name":"Campus Ladies Camp BENCY Running Shoes",
         "desc": [
             {
@@ -506,11 +657,13 @@
             }
         ],
         "category": "shoes",
-        "price": 14000,
+        "dicount": 18,
+        "price": 1119,
         "imgUrl": "https://m.media-amazon.com/images/I/71a38qfVAPL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
         "id": 24,
+        "title": "Angular",
         "name":"Journey to Angular Development Paperback – Illustrated, 13 July 2021",
         "desc": [
             {
@@ -518,7 +671,8 @@
             }
         ],
         "category": "book",
-        "price": 14000,
+        "dicount": 20,
+        "price": 1299,
         "imgUrl": "https://m.media-amazon.com/images/I/41Jis0VFpSL._SX404_BO1,204,203,200_.jpg"
     }
 ]

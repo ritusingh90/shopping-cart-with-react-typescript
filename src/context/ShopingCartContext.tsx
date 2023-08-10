@@ -1,5 +1,6 @@
 import { ReactNode, createContext, useContext, useState } from "react"
 import ShoppingCart from "../Components/ShoppingCart"
+import ItemDeliveryLocationFrom from "../Components/ItemDeliveryLocationForm"
 
 
 type ShoppingCartProviderProps = {
@@ -12,6 +13,8 @@ type CartItem = {
 }
 
 
+
+
 type ShoppingCartContext = {
     openCart : () => void
     closeCart : () => void
@@ -21,6 +24,7 @@ type ShoppingCartContext = {
     removeFromCart : (id:number) => void
     cartQnty : number
     cartItems: CartItem[]
+    // modalShow: () => void
 }
 
 
@@ -37,11 +41,15 @@ export const ShoppingDataCartContext = () => {
 
 export const ShoppingCartProvider = ({children}: ShoppingCartProviderProps) => {
     const [isOpen, setIsOpen] = useState(false)
+
+  
     const [cartItems, setCartItems] = useState<CartItem[]>([])
 
 
     const openCart = () => setIsOpen(true)
     const closeCart = () => setIsOpen(false)
+
+   
 
     const cartQnty = cartItems.reduce(
         (qnty, item) => item.qnty + qnty, 0

@@ -1,4 +1,4 @@
-import { Col, Row } from "react-bootstrap"
+import { Col, Container, Row } from "react-bootstrap"
 import StoreItems from "../Components/StoreItems"
 import StorItem from '../data/items.json'
 import { useState } from "react";
@@ -20,7 +20,7 @@ const Store = () => {
       console.log("Dfdsf", item)
 
     return (
-        <>
+        <Container fluid>
             <div className="d-flex justify-content-between">
                 <h2>Store</h2>
                 <FilterButton filterItem={filterItem}
@@ -40,7 +40,7 @@ const Store = () => {
                     ))
                 }
             </Row>
-        </>
+        </Container>
     )
 }
 

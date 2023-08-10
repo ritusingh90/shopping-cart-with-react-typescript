@@ -2,6 +2,7 @@ import { Button, Stack } from "react-bootstrap"
 import { ShoppingDataCartContext } from "../context/ShopingCartContext"
 import storeItems from "../data/items.json"
 import FormatCurrency from "../utilities/formatCurrency"
+import { Link } from "react-router-dom"
 
 type CartItemProps = {
     id: number
@@ -16,10 +17,10 @@ const CartItem = ({id, qnty}: CartItemProps) => {
     return (
         <>
             <Stack direction="horizontal" gap={2} className="d-flex align-items-center">
-                <img src={item.imgUrl} alt="" style={{ width: "100px", height: "75px", objectFit: "cover" }}/>
+                <Link to={`/storedetail/${id}`}><img src={item.imgUrl} alt="" style={{ width: "100px", height: "75px", objectFit: "cover" }}/></Link>
                 <div className="me-auto">
                     <div>
-                        {item.name}{" "}
+                    {/* <Link to={`/storedetail/${id}`} className="items-title">{item.name}</Link>{" "} */}
                         {qnty > 1 && (
                             <span className="text-muted">x{qnty}</span>
                         )}
@@ -42,6 +43,7 @@ const CartItem = ({id, qnty}: CartItemProps) => {
                 <Button variant="outline-danger" size="sm" onClick={() => removeFromCart(item.id)} >
                     &times;
                 </Button>
+                
             </Stack>
         </>
     )
